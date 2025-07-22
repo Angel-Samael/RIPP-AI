@@ -1,0 +1,24 @@
+name: ripplai
+description: "RIPP AI - Where ideas ripple through AI into profit! A fully AI-automated agency mobile app showcasing specialized AI services for digital-native SMB leaders."
+publish_to: "none"
+version: 1.0.0
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.1.0
+  flutter_animate: ^4.0.0
+  flutter_staggered_grid_view: ^0.7.0
+  shared_preferences: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
